@@ -19,8 +19,11 @@
 
 ## Week 3 - Linux Training
 
-### ✅ Completion Proof
-![Linux Training Screenshot](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-3/WhatsApp%20Image%202025-07-29%20at%2019.19.11_40f18a2b.jpg)
+### ✅ Completion Proof_Day-1
+![Linux Training Screenshot](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-3/day_1/WhatsApp%20Image%202025-07-29%20at%2019.19.11_40f18a2b.jpg)
+
+### ✅ Completion Proof_Day-2
+![Linux Training Screenshot](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-3/day_2/WhatsApp%20Image%202025-07-30%20at%2022.30.11_00f306f4.jpg)
 
 
 
