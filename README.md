@@ -20,7 +20,7 @@
 ## Week 3 - Linux Training
 
 ### ✅ Completion Proof
-![Linux Training Screenshot](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/commit/d497b2fdeda495aea47329e3e38644a7b2a65837#diff-83d2ceb8f627a2c238308060e89cb47a1e76bc05bc71a74f1c6c6060c2f46642)
+![Linux Training Screenshot](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-3/WhatsApp%20Image%202025-07-29%20at%2019.19.11_40f18a2b.jpg)
 
 
 
