@@ -25,6 +25,16 @@
 ### ✅ Completion Proof_Day-2
 ![Linux Training Screenshot](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-3/day_2/WhatsApp%20Image%202025-07-30%20at%2022.30.11_00f306f4.jpg)
 
+## Week 4- C Programming
+
+### ✅ Completion Proof_ 1st certificate
+![Introduction C](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-4/Introduction%20to%20C.jpg)
+
+### ✅ Completion Proof_2nd certificate
+![C Intermediate](https://github.com/Akanksha7743Git/5424833__AKANKSHA_KUMARI/blob/main/week-4/C%20Intermediate.jpg)
+
+
+
 
 
 
